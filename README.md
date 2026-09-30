@@ -26,11 +26,9 @@ You are expected to **analyze**, **interact with an AI assistant**, and **comple
 2. Make sure you have Python 3.10+ installed.
 3. Install dependencies:
 
+- [x] **LLM Chat History Link:** [https://chatgpt.com/share/6abd0837-4080-83ee-b268-66811ce6345a]
+
+
 ```bash
 pip install -r requirements.txt
 
-## Submission Checklist & Links
-
-- [x] **Gameplay Before Changes:** [View Before Video](./Before.mp4)
-- [x] **Gameplay After Changes:** [View After Video](./After.mp4)
-- [x] **LLM Chat History Link:** [https://chatgpt.com/share/6abd0837-4080-83ee-b268-66811ce6345a]
